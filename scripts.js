@@ -141,7 +141,7 @@ function updateTotals() {
 
       //Verifica se é um número válido
       if (isNaN(value)) {
-        return alert("Não foi possível calclar o total.");
+        return alert("Não foi possível calcular o total.");
       }
 
       //Incrementa o valor total
